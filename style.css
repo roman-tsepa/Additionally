@@ -52,6 +52,7 @@ body {
 }
 
 .bar:hover {
+  width: 100%;
   animation-play-state: running;
 }
 
